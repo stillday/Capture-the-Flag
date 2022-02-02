@@ -1,0 +1,28 @@
+{
+    "name": "Capture-the-Flag",
+    "title": "Catpture the Flag - The DnD Module",
+    "description": "This is the Capture the Flag Module to the Game from DnD-Deutsch",
+    "author": "stillday",
+    "authors": [
+        {
+          "name": "stillday",
+          "email": "",
+          "url": ""
+        }
+      ],
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.7.9", 
+    "compatibleCoreVersion": "0.9.249",
+    "dependencies": [{
+        "name": "dnd5e",
+        "type": "system"
+      }],
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "manifestPlusVersion": "1.2.0",
+    "packs": [],
+    "scripts": [
+        "scripts/init.js"
+    ]
+}
