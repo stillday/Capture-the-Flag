@@ -21,7 +21,50 @@
     "manifest": "",
     "download": "",
     "manifestPlusVersion": "1.2.0",
-    "packs": [],
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Catpture the Flag Maps",
+            "path": "/packs/maps.db",
+            "entity": "Scene"
+          },
+          {
+            "name": "actors",
+            "label": "Catpture the Flag Monsters",
+            "path": "/packs/monster.db",
+            "entity": "Actor"
+          },
+          {
+            "name": "journals",
+            "label": "Catpture the Flag Journals",
+            "path": "/packs/journals.db",
+            "entity": "JournalEntry"
+          },
+          {
+            "name": "items",
+            "label": "Catpture the Flag Items",
+            "path": "/packs/items.db",
+            "entity": "Item"
+          },
+          {
+            "name": "rolltables",
+            "label": "Catpture the Flag Rolltables",
+            "path": "/packs/rolltables.db",
+            "entity": "RollTable"
+          },
+          {
+            "name": "macros",
+            "label": "Catpture the Flag Macros",
+            "path": "/packs/macros.db",
+            "entity": "Macro"
+          },
+          {
+            "name": "playlists",
+            "label": "Catpture the Flag Playlists",
+            "path": "/packs/playlists.db",
+            "entity": "Playlist"
+          }
+    ],
     "scripts": [
         "scripts/init.js"
     ]
