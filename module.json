@@ -12,7 +12,7 @@
       ],
     "version": "0.0.1",
     "minimumCoreVersion": "0.7.9", 
-    "compatibleCoreVersion": "0.9.249",
+    "compatibleCoreVersion": "0.9.245",
     "dependencies": [{
         "name": "dnd5e",
         "type": "system"
