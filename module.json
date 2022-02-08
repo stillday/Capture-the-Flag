@@ -19,7 +19,7 @@
       }],
     "url": "https://github.com/stillday/Capture-the-Flag",
     "manifest": "https://raw.githubusercontent.com/stillday/Capture-the-Flag/main/module.json?token=GHSAT0AAAAAABPUBNB5QBMR477GBEMBNZJ6YQCXQJQ",
-    "download": "https://raw.githubusercontent.com/stillday/Capture-the-Flag/main/module.zip?token=GHSAT0AAAAAABPUBNB4WFYE636GCQGW6NSUYQCXSMQ",
+    "download": "https://raw.githubusercontent.com/stillday/Capture-the-Flag/main/module.zip",
     "manifestPlusVersion": "1.2.0",
     "packs": [
         {
