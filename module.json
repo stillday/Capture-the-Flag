@@ -41,6 +41,12 @@
             "entity": "JournalEntry"
           },
           {
+            "name": "gm-documents",
+            "label": "GM Documents",
+            "path": "/packs/gm-documents.db",
+            "entity": "JournalEntry"
+          },
+          {
             "name": "items",
             "label": "Catpture the Flag Items",
             "path": "/packs/items.db",
