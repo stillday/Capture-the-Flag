@@ -16,7 +16,20 @@
     "dependencies": [{
         "name": "dnd5e",
         "type": "system"
-      }],
+      },
+      {
+        "name": "betterroofs"
+      },
+      {
+        "name": "levels"
+      },
+      {
+        "name": "lib-wrapper"
+      },
+      {
+        "name": "wall-height"
+      }
+    ],
     "url": "https://github.com/stillday/Capture-the-Flag",
     "manifest": "https://github.com/stillday/Capture-the-Flag/releases/latest/download/module.json",
     "download": "https://github.com/stillday/Capture-the-Flag/releases/latest/download/module.zip",
