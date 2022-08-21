@@ -85,6 +85,8 @@
           }
     ],
     "scripts": [
-        "scripts/init.js"
+    ],
+    "esmodules": [
+      "scripts/init.js"
     ]
 }

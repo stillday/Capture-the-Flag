@@ -1,7 +1,12 @@
+// Module
+import config from './config.js';
+
 console.log("Hello World! This code runs immediately when the file is loaded.");
 
+
+
 Hooks.on("init", function() {
-  console.log("This code runs once the Foundry VTT software begins its initialization workflow.");
+  console.log("TT This code runs once the Foundry VTT software begins its initialization workflow.");
 });
 
 Hooks.on("ready", function() {
